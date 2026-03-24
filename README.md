@@ -1,6 +1,8 @@
 # ¿Qué dijo?
 
-Este es el frontend de quedijo.ar. 
+Este es el frontend de [quedijo.ar](https://quedijo.ar/). 
+<img width="1048" height="599" alt="image" src="https://github.com/user-attachments/assets/125032cc-1a5a-41b0-9e9f-de0fc59288ac" />
+
 
 ## Dependencias
 
