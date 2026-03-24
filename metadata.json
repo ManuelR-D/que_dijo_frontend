@@ -1,0 +1,5 @@
+{
+  "name": "Senado Tracker AR",
+  "description": "Seguimiento de leyes, votaciones e intervenciones en el Senado de la Nación Argentina.",
+  "requestFramePermissions": []
+}
